@@ -1,0 +1,9 @@
+*~
+.*.swp
+*.bak
+*.[oa]
+*.so
+*.pyc
+.goutputstream*
+.idea/
+python/dialogue_test/
